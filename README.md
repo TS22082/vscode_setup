@@ -58,3 +58,21 @@ then select the "Preferences open settings (json)"
 ![](assets/demo2.gif)
 
 # Find a theme you like
+
+Windows (hold):
+
+```
+ctrl + SHIFT + p
+```
+
+Mac (hold):
+
+```
+command + SHIFT + p
+```
+
+Search for then select "theme"
+
+Scroll to where you see "install additional themes"
+
+![](assets/demo3.gif)

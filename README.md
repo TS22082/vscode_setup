@@ -52,6 +52,9 @@ Mac (hold):
 command + SHIFT + p
 ```
 
-![](assets/demo2.gif)
 Search for then select "settings"
 then select the "Preferences open settings (json)"
+
+![](assets/demo2.gif)
+
+# Find a theme you like

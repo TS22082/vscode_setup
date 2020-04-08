@@ -5,6 +5,7 @@
 - Auto Import - ES6, TS, JSX, TSX
 - Auto Rename Tag
 - Bracket Pair Colorizer
+- Code Runner
 - colorize
 - html snippets
 - indent-rainbow

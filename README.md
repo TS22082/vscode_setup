@@ -8,6 +8,7 @@
 - Code Runner
 - colorize
 - html snippets
+- Highlight Matching Tags
 - indent-rainbow
 - Live Server
 - Mantas Third Eye

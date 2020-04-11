@@ -15,6 +15,7 @@
 - NPM Intellisense
 - Path Intellisense
 - Prettier
+- Quokka.js
 - vsc-organize-imports
 
 ## Accessing Extensions
